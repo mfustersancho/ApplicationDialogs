@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicationDialogs</string>
+    <string name="dialog_titulo">Hello</string>
+    <string name="dialog_cuerpo">Missatge Alerta</string>
+    <string name="dialog_accept_texto">OK</string>
+    <string name="dialog_cancel_texto">CANCEL</string>
+</resources>
